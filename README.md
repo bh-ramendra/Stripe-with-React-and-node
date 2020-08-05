@@ -1,11 +1,3 @@
-# Stripe-with-React-and-node
-Stripe payment integration {include Forntend as well as Backend}
-
-##ScreenShot
-![stripe](https://user-images.githubusercontent.com/56904422/89383070-7aa4db00-d719-11ea-9249-c5466999c78b.png)
-it contains shiping address and billing address in stripe card only
-
-
 ### Hello, I'm Ramendra Bharadwaj👋 [fell free to reach me !]
 
 <a href="https://www.linkedin.com/in/ramendra-bharadwaj-aa157012b">
@@ -32,3 +24,12 @@ it contains shiping address and billing address in stripe card only
 [![Twitter: bh_ramendra](https://img.shields.io/twitter/follow/bh_ramendra?style=social)](https://twitter.com/bh_ramendra)
 [![Linkedin: Ramendra bharadwaj](https://img.shields.io/badge/-Ramendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramendra-bharadwaj-aa157012b/)](https://www.linkedin.com/in/ramendra-bharadwaj-aa157012b/)
 [![GitHub Ramendra](https://img.shields.io/github/followers/bh-ramendra?label=Ramendra&style=social)](https://github.com/bh-ramendra)
+# Stripe-with-React-and-node
+Stripe payment integration {include Forntend as well as Backend}
+
+##ScreenShot
+![stripe](https://user-images.githubusercontent.com/56904422/89383070-7aa4db00-d719-11ea-9249-c5466999c78b.png)
+it contains shiping address and billing address in stripe card only
+
+
+
